@@ -10,9 +10,9 @@ A Python application to manage daily tasks.
 
 A calculator application that performs basic arithmetic operations.
 
-## Task 3 - Password Generator
+## Task 3 - Rock Paper Scissors game
 
-A Python application that generates secure random passwords.
+A Rock Paper Scissors game to play with two player.
 
 ## Technologies Used
 
